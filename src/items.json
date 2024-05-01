@@ -1,0 +1,18 @@
+[
+    {
+        "brand": "Tiger of Sweden",
+        "title": "Leonard coat",
+        "description": "Minimalistic coat in cotton-blend",
+        "descriptionFull": "Men's minimalistic overcoat in cotton-blend. Features a stand-up collar, concealed front closure and single back vent. Slim fit with clean, straight shape. Above-knee length.",
+        "price": 399,
+        "currency": "£"
+    },
+    {
+        "brand": "LEVI'S",
+        "title": "Bomber Jacket",
+        "description": "Flight Satin Bomber Jacket",
+        "descriptionFull": "Featuring a front zip closure, this jacket will keep you comfortable and comfortable. Long sleeves with ribbed cuffs keep the cold out, while a ribbed collar and hem add shape and structure to the jacket. The jacket features front hand pockets and one sleeve pocket with zip closure, as well as an internal pocket to keep your belongings secure.",
+        "price": 85,
+        "currency": "£"
+    }
+]
